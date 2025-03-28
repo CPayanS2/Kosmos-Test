@@ -23,4 +23,4 @@
   * En la terminal de cada cliente enviar el siguiente mensaje al servidor: DESCONEXION
   * Cerrar terminal
 * Servidor
-  * Puede cerrar directamente la ventana de la terminal de ejecución.
+  * Puede cerrar directamente la ventana de la terminal de ejecución o combiar CTRL + C.
