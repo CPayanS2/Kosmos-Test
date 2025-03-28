@@ -16,6 +16,7 @@
     * python client.py
   * Linux:
     * python3 client.py
+* Se solicitará un nombre de usuario para identificar del lado del servidor al cliente que se está conectando y facilitar su entendimiento en los mensajes.
 
 ## Terminar procesos / Salir
 
